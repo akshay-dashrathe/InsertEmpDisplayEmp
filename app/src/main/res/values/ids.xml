@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="idNo" type="id" />
+    <item name="idName" type="id" />
+    <item name="idDesign" type="id" />
+    <item name="idSal" type="id" />
+    <item name="idBtnAddDetails" type="id" />
+</resources>
